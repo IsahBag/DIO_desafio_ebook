@@ -5,7 +5,7 @@
 
 O desafio tinha como objetivo a utilização das ferramentas de IA para a criação de um ebook sobre um assunto que eu achasse interessante.
 
-📖 **[Link para leitura](https://github.com/IsahBag/DIO_desafio_ebook/blob/main/ebook_final.pdf)**
+📖 **[Link para leitura](https://github.com/IsahBag/DIO_desafio_ebook/blob/main/output/ebook_final.pdf)**
 
 ## 💻 Tecnologias utilizadas:
 * [ChatGPT](https://chat.openai.com/)
