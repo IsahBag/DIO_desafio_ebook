@@ -22,14 +22,14 @@ O desafio tinha como objetivo a utilização das ferramentas de IA para a criaç
 
 **ChatGPT:**
 
-**Ação**  | **Titulo**
+**Item**  | **Prompt**
 ----------|------------
 Título    | Crie um título de um ebook sobre o tema de        análise de dados. O ebook é do nicho de programação e o subnicho é análise de dados. O título deve ser épico e curto e tenha uma temática de anime. Me dê 5 opções de títulos.
-Conteído  | Faça o texto para um ebook sobre análise de dados, citando as principais ferramentas com exemplos de código.{REGRAS} explique de forma simples; deixe o texto enxuto; os exemplos de código devem ter um contexto real;> sempre deixa um título sugestivo por tópico; inicie com uma introdução sobre a importância dos dados; use uma linguagem não muito formal, como se fosse um professor jovem de graduação de TI
+Conteúdo  | Faça o texto para um ebook sobre análise de dados, citando as principais ferramentas com exemplos de código.{REGRAS} explique de forma simples; deixe o texto enxuto; os exemplos de código devem ter um contexto real;> sempre deixa um título sugestivo por tópico; inicie com uma introdução sobre a importância dos dados; use uma linguagem não muito formal, como se fosse um professor jovem de graduação de TI
 
 **Bing Image Creator:**
 
-**Ação**  | **Titulo**
+**Item**  | **Prompt**
 ----------|------------
 Título    |  An anime character, like a young woman master, wearing a cape whit a hood, using her handly power, creating an energy field for data manipulation
 
