@@ -1,9 +1,9 @@
 # Desafio eBook gerado por I.A.s
 
 
-*Projeto proposto como desafio final do módulo Introdução à Engenharia de Prompts com ChatGPT no Bootcamp Santandar 2014 - IA para Devs em parceria com a [DIO](https://web.dio.me/home).*
+*Projeto proposto como desafio final do módulo Introdução à Engenharia de Prompts com ChatGPT no Bootcamp Santander 2024 - IA para Devs em parceria com a [DIO](https://web.dio.me/home).*
 
-O desafio tinha como objetivo a utilização das ferramentas de IA para a criação de um ebook sobre um assunto que eu achasse interessante.
+O objetivo do desafio é a utilização das ferramentas de IA para a criação de um ebook sobre um assunto que eu achasse interessante.
 
 📖 **[Link para leitura](https://github.com/IsahBag/DIO_desafio_ebook/blob/main/output/ebook_final.pdf)**
 
